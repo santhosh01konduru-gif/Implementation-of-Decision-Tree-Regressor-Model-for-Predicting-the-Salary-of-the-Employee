@@ -82,21 +82,27 @@ print("\nPredicted Salary for new employee:", predicted_salary[0])
 ## Output:
 
 #Data head:
+<br>
 <img width="482" height="322" alt="image" src="https://github.com/user-attachments/assets/216c6106-4cc4-4e0c-8895-5a8e804d2cac" />
 <br>
 #Data info:
+<br>
 <img width="745" height="289" alt="image" src="https://github.com/user-attachments/assets/da1a7d1d-d054-45f5-be74-e75755a4d270" />
 <br>
 #isnull() sum():
+<br>
 <img width="239" height="106" alt="image" src="https://github.com/user-attachments/assets/7a7d0b4d-9eee-4756-a82a-48d5d62afc32" />
 <br>
 #Daata head for salary:
+<br>
 <img width="401" height="290" alt="image" src="https://github.com/user-attachments/assets/abbf12e6-fe73-48ed-98b7-ac021f6059ae" />
 <br>
 #mean squared error:
+<br>
 <img width="194" height="37" alt="image" src="https://github.com/user-attachments/assets/74f0dcc9-81e3-40d5-b66e-186ed63a71b4" />
 <br>
 #r2 value:
+<br>
 <img width="319" height="38" alt="image" src="https://github.com/user-attachments/assets/6e36f320-d192-46f5-967a-e6af5111d55f" />
 
 
